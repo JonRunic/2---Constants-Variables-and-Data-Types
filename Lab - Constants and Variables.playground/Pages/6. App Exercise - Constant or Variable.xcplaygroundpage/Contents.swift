@@ -20,7 +20,7 @@ print("Steps change")
 let stepsGoal = 20000
 print("Goal stays the same")
 var avgHeart = 63
-print("Average can chnage")
+print("Average can change")
 /*:
  Now go back and add a line after each constant or variable declaration. On those lines, print a statement explaining why you chose to declare the piece of information as a constant or variable.
  
